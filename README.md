@@ -6,7 +6,7 @@ This project provides a **Streamlit web application** combined with a full machi
 ---
 ## 🚀 Live App
 Try the app online:  
-[Streamlit Community Cloud](https://enviroscan-pollution-analysis.streamlit.app/)  
+[Streamlit Community Cloud](https://infosys-assignments-at2uqfsa2ibrlg82xqtwwq.streamlit.app/)  
 *(Link to be updated after deployment)*
 
 ---
