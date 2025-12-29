@@ -53,7 +53,7 @@ pip install -r requirements.txt
 streamlit run app/app.py
 ```
 
-##⚙️ Requirements
+## ⚙️ Requirements
 
 Python 3.12+ (recommended for Streamlit Cloud compatibility)
 Python 3.10+
@@ -63,23 +63,23 @@ scikit-learn, xgboost
 matplotlib, seaborn, plotly, folium
 requests, aiohttp
 
-##📂 Model Options
+## 📂 Model Options
 Pollution source and severity prediction using tree-based models
 Trained on engineered features from OpenWeatherMap data
 Best model saved and loaded in the Streamlit app
 
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 This tool is intended for educational and research purposes only.
 Pollution source predictions are based on heuristic rules and machine learning models trained on simulated patterns.
 Results are indicative and should not be used for regulatory, legal, or policy decisions.
 Always refer to official environmental monitoring agencies for accurate data.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 ### App:
 Name: Anish
 GitHub: https://github.com/AnishRN
 
-##⭐ Acknowledgements
+## ⭐ Acknowledgements
 
 WHO, CPCB India, US EPA
 OpenWeatherMap
