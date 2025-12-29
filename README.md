@@ -75,9 +75,9 @@ Results are indicative and should not be used for regulatory, legal, or policy d
 Always refer to official environmental monitoring agencies for accurate data.
 
 ## 👨‍💻 Author
-### App:
-Name: Anish
+Name: Anish Ravi Nadar
 GitHub: https://github.com/AnishRN
+Academic Project – AI & Geospatial Environmental Analytics
 
 ## ⭐ Acknowledgements
 
