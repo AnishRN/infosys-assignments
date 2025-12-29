@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import tempfile
 import json
 import joblib
-API_KEY = st.secrets["OPENWEATHER_API_KEY"]
+OPENWEATHER_API_KEY = st.secrets["OPENWEATHER_API_KEY"]
 @st.cache_resource
 def load_xgb_model():
     return joblib.load("models/xgb_model.joblib")
@@ -747,5 +747,6 @@ elif page == "Historical Data":
         file_name="pollution_history_report.pdf",
         mime="application/pdf"
     )
+
 
 
