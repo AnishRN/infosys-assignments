@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 import tempfile
 import json
 import joblib
+API_KEY = st.secrets["OPENAI_API_KEY"]
 @st.cache_resource
 def load_xgb_model():
     return joblib.load("models/xgb_model.joblib")
@@ -67,7 +68,6 @@ def clean_text(text):
 
 
 # ====================== CONFIG ======================
-OPENWEATHER_API_KEY = "4ea3c9aff2c80251a5f1397a2c14e1e5"
 SOURCE_INDEX = ["Vehicular", "Industrial", "Agricultural", "Waste", "Natural"]
 SOURCE_COLORS = {"Vehicular": "red", "Industrial": "purple", "Agricultural": "yellow",
                  "Waste": "orange", "Natural": "green"}
@@ -747,3 +747,4 @@ elif page == "Historical Data":
         file_name="pollution_history_report.pdf",
         mime="application/pdf"
     )
+
