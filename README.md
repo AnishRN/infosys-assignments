@@ -74,17 +74,17 @@ Pollution source predictions are based on heuristic rules and machine learning m
 Results are indicative and should not be used for regulatory, legal, or policy decisions.
 Always refer to official environmental monitoring agencies for accurate data.
 
-## 👨‍💻 Author
-Name: Anish Ravi Nadar
-GitHub: https://github.com/AnishRN
-Academic Project – AI & Geospatial Environmental Analytics
+## 👨‍💻 Author  
+Name: Anish Ravi Nadar  
+GitHub: https://github.com/AnishRN  
+Academic Project – AI & Geospatial Environmental Analytics  
 
-## ⭐ Acknowledgements
+## ⭐ Acknowledgements  
 
-WHO, CPCB India, US EPA
-OpenWeatherMap
-OpenStreetMap Contributors
-scikit-learn, pandas, Streamlit, Folium communities
+WHO, CPCB India, US EPA  
+OpenWeatherMap  
+OpenStreetMap Contributors  
+scikit-learn, pandas, Streamlit, Folium communities  
 
 ---
 
